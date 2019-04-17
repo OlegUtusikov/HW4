@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"ru.ifmo.rain.utusikov","l":"Implementor"},{"p":"ru.ifmo.rain.utusikov","l":"Implementor.MyMethod"}]
